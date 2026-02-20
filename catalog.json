@@ -25,10 +25,11 @@
     { "id": "prod-dca45c29-019", "name": "Pro Item 19", "category": "electronics", "price": 29.93, "stock": 152, "rating": 1.2 }
   ],
   "aggregations": {
-    "home": { "count": 3, "inventoryValue": 126433.24 },
-    "books": { "count": 4, "inventoryValue": 69963.27 },
-    "clothing": { "count": 4, "inventoryValue": 37902.54 },
-    "electronics": { "count": 4, "inventoryValue": 131596.15 },
-    "sports": { "count": 4, "inventoryValue": 188567.91 }
+  "home": { "count": 3, "inventoryValue": 126433.24 },
+  "books": { "count": 4, "inventoryValue": 25568.05 },
+  "clothing": { "count": 4, "inventoryValue": 43526.56 },
+  "electronics": { "count": 4, "inventoryValue": 131596.15 },
+  "sports": { "count": 4, "inventoryValue": 164761.32 }
+}
   }
 }
