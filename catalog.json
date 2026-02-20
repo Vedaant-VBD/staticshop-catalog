@@ -4,25 +4,158 @@
     "version": "dca45c29"
   },
   "products": [
-    { "id": 1, "name": "Laptop Pro 14", "category": "electronics", "price": 89999.99, "stock": 12, "rating": 4.5 },
-    { "id": 2, "name": "Wireless Mouse", "category": "electronics", "price": 1299.50, "stock": 150, "rating": 4.2 },
-    { "id": 3, "name": "Bluetooth Headphones", "category": "electronics", "price": 3499.00, "stock": 85, "rating": 4.4 },
-    { "id": 4, "name": "Office Chair", "category": "home", "price": 8450.75, "stock": 5, "rating": 4.1 },
-    { "id": 5, "name": "Wooden Dining Table", "category": "home", "price": 45678.99, "stock": 2, "rating": 4.6 },
-    { "id": 6, "name": "LED Floor Lamp", "category": "home", "price": 2499.99, "stock": 15, "rating": 4.3 },
-    { "id": 7, "name": "Men's Running Shoes", "category": "fashion", "price": 2999.95, "stock": 40, "rating": 4.2 },
-    { "id": 8, "name": "Women's Handbag", "category": "fashion", "price": 5499.50, "stock": 25, "rating": 4.5 },
-    { "id": 9, "name": "Smart Watch", "category": "electronics", "price": 12999.00, "stock": 30, "rating": 4.4 },
-    { "id": 10, "name": "Yoga Mat", "category": "sports", "price": 999.99, "stock": 60, "rating": 4.1 },
-    { "id": 11, "name": "Cricket Bat", "category": "sports", "price": 2499.99, "stock": 20, "rating": 4.3 },
-    { "id": 12, "name": "Refrigerator 260L", "category": "appliances", "price": 18999.00, "stock": 8, "rating": 4.4 },
-    { "id": 13, "name": "Microwave Oven", "category": "appliances", "price": 7999.99, "stock": 10, "rating": 4.2 },
-    { "id": 14, "name": "Air Conditioner 1.5 Ton", "category": "appliances", "price": 34999.00, "stock": 4, "rating": 4.5 },
-    { "id": 15, "name": "Gaming Keyboard", "category": "electronics", "price": 4599.00, "stock": 50, "rating": 4.3 },
-    { "id": 16, "name": "Desk Organizer", "category": "home", "price": 999.50, "stock": 70, "rating": 4.0 },
-    { "id": 17, "name": "Water Bottle 1L", "category": "sports", "price": 499.99, "stock": 120, "rating": 4.1 },
-    { "id": 18, "name": "T-shirt Pack of 3", "category": "fashion", "price": 1199.00, "stock": 90, "rating": 4.2 },
-    { "id": 19, "name": "Tablet 10-inch", "category": "electronics", "price": 15999.00, "stock": 18, "rating": 4.3 }
+    {
+      "id": "prod-dca45c29-001",
+      "name": "Standard Item 1",
+      "category": "home",
+      "price": 222.83,
+      "stock": 145,
+      "rating": 2.2
+    },
+    {
+      "id": "prod-dca45c29-002",
+      "name": "Standard Item 2",
+      "category": "books",
+      "price": 40.66,
+      "stock": 74,
+      "rating": 1.9
+    },
+    {
+      "id": "prod-dca45c29-003",
+      "name": "Basic Item 3",
+      "category": "books",
+      "price": 252.46,
+      "stock": 51,
+      "rating": 3.9
+    },
+    {
+      "id": "prod-dca45c29-004",
+      "name": "Elite Item 4",
+      "category": "clothing",
+      "price": 87.02,
+      "stock": 188,
+      "rating": 3.7
+    },
+    {
+      "id": "prod-dca45c29-005",
+      "name": "Premium Item 5",
+      "category": "clothing",
+      "price": 16.66,
+      "stock": 42,
+      "rating": 4.3
+    },
+    {
+      "id": "prod-dca45c29-006",
+      "name": "Standard Item 6",
+      "category": "electronics",
+      "price": 248.44,
+      "stock": 20,
+      "rating": 2.7
+    },
+    {
+      "id": "prod-dca45c29-007",
+      "name": "Pro Item 7",
+      "category": "clothing",
+      "price": 86.58,
+      "stock": 106,
+      "rating": 3.7
+    },
+    {
+      "id": "prod-dca45c29-008",
+      "name": "Elite Item 8",
+      "category": "sports",
+      "price": 251.93,
+      "stock": 17,
+      "rating": 2.8
+    },
+    {
+      "id": "prod-dca45c29-009",
+      "name": "Basic Item 9",
+      "category": "home",
+      "price": 336.21,
+      "stock": 13,
+      "rating": 4.3
+    },
+    {
+      "id": "prod-dca45c29-010",
+      "name": "Pro Item 10",
+      "category": "electronics",
+      "price": 448.11,
+      "stock": 100,
+      "rating": 2.8
+    },
+    {
+      "id": "prod-dca45c29-011",
+      "name": "Premium Item 11",
+      "category": "books",
+      "price": 76.25,
+      "stock": 127,
+      "rating": 3.8
+    },
+    {
+      "id": "prod-dca45c29-012",
+      "name": "Elite Item 12",
+      "category": "home",
+      "price": 462.64,
+      "stock": 194,
+      "rating": 4.3
+    },
+    {
+      "id": "prod-dca45c29-013",
+      "name": "Elite Item 13",
+      "category": "sports",
+      "price": 327.43,
+      "stock": 103,
+      "rating": 3.4
+    },
+    {
+      "id": "prod-dca45c29-014",
+      "name": "Elite Item 14",
+      "category": "electronics",
+      "price": 446.63,
+      "stock": 173,
+      "rating": 4.4
+    },
+    {
+      "id": "prod-dca45c29-015",
+      "name": "Elite Item 15",
+      "category": "sports",
+      "price": 226.38,
+      "stock": 161,
+      "rating": 3.9
+    },
+    {
+      "id": "prod-dca45c29-016",
+      "name": "Elite Item 16",
+      "category": "clothing",
+      "price": 270.15,
+      "stock": 64,
+      "rating": 2.9
+    },
+    {
+      "id": "prod-dca45c29-017",
+      "name": "Elite Item 17",
+      "category": "books",
+      "price": 461.37,
+      "stock": 0,
+      "rating": 2.5
+    },
+    {
+      "id": "prod-dca45c29-018",
+      "name": "Pro Item 18",
+      "category": "sports",
+      "price": 482.92,
+      "stock": 187,
+      "rating": 1.4
+    },
+    {
+      "id": "prod-dca45c29-019",
+      "name": "Pro Item 19",
+      "category": "electronics",
+      "price": 29.93,
+      "stock": 152,
+      "rating": 1.2
+    }
   ],
   "aggregations": {
     "home": {
