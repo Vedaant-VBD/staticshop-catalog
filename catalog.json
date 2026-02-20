@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "email": "24f2001057@ds.study.iitm.ac.in",
+    "version": "dca45c29"
+  },
+  "products": [
+    { "id": 1, "name": "Laptop Pro 14", "category": "electronics", "price": 89999.99, "stock": 12, "rating": 4.5 },
+    { "id": 2, "name": "Wireless Mouse", "category": "electronics", "price": 1299.50, "stock": 150, "rating": 4.2 },
+    { "id": 3, "name": "Bluetooth Headphones", "category": "electronics", "price": 3499.00, "stock": 85, "rating": 4.4 },
+    { "id": 4, "name": "Office Chair", "category": "home", "price": 8450.75, "stock": 5, "rating": 4.1 },
+    { "id": 5, "name": "Wooden Dining Table", "category": "home", "price": 45678.99, "stock": 2, "rating": 4.6 },
+    { "id": 6, "name": "LED Floor Lamp", "category": "home", "price": 2499.99, "stock": 15, "rating": 4.3 },
+    { "id": 7, "name": "Men's Running Shoes", "category": "fashion", "price": 2999.95, "stock": 40, "rating": 4.2 },
+    { "id": 8, "name": "Women's Handbag", "category": "fashion", "price": 5499.50, "stock": 25, "rating": 4.5 },
+    { "id": 9, "name": "Smart Watch", "category": "electronics", "price": 12999.00, "stock": 30, "rating": 4.4 },
+    { "id": 10, "name": "Yoga Mat", "category": "sports", "price": 999.99, "stock": 60, "rating": 4.1 },
+    { "id": 11, "name": "Cricket Bat", "category": "sports", "price": 2499.99, "stock": 20, "rating": 4.3 },
+    { "id": 12, "name": "Refrigerator 260L", "category": "appliances", "price": 18999.00, "stock": 8, "rating": 4.4 },
+    { "id": 13, "name": "Microwave Oven", "category": "appliances", "price": 7999.99, "stock": 10, "rating": 4.2 },
+    { "id": 14, "name": "Air Conditioner 1.5 Ton", "category": "appliances", "price": 34999.00, "stock": 4, "rating": 4.5 },
+    { "id": 15, "name": "Gaming Keyboard", "category": "electronics", "price": 4599.00, "stock": 50, "rating": 4.3 },
+    { "id": 16, "name": "Desk Organizer", "category": "home", "price": 999.50, "stock": 70, "rating": 4.0 },
+    { "id": 17, "name": "Water Bottle 1L", "category": "sports", "price": 499.99, "stock": 120, "rating": 4.1 },
+    { "id": 18, "name": "T-shirt Pack of 3", "category": "fashion", "price": 1199.00, "stock": 90, "rating": 4.2 },
+    { "id": 19, "name": "Tablet 10-inch", "category": "electronics", "price": 15999.00, "stock": 18, "rating": 4.3 }
+  ],
+  "aggregations": {
+    "home": {
+      "count": 3,
+      "inventoryValue": 126433.24
+    }
+  }
+}
